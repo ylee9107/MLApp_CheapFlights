@@ -24,7 +24,31 @@ Set-up instructions:
 3. Followed by signing up for the SMS channel.
 4. After the above, click on the 'My Applets' within the homepage and create a new apple using 'New Applet'.
 
+#### Step 1:
+![1_Create New Applet]()
 
+#### Step 2:
+![2_Search for Webhooks]()
 
+#### Step 3:
+![3_Input fields for Webhooks]()
+
+#### Step 4:
+![4_Click on add Action]()
+
+#### Step 5:
+![5_Select SMS service]()
+
+#### Step 6:
+![6_Input fields for SMS]()
+
+#### Step 7:
+![7_Fill in final details and click on Save]()
+
+#### Step 8:
+![8_Turn on ]()
+
+#### Step 9:
+![9_Test it]()
 
 ## Summary:
