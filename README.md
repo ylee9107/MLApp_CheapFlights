@@ -14,7 +14,17 @@ It all seemed to be a good deal and one might wonder if whether it is true or no
 
 
 
-##
+## Set up IFTTT service:
+
+IFTTT - If This THen That, is a free service that allows for connection with a huge number of services with a series of triggers and actions. Using this service requires signing up for an account at www.ifttt.com. 
+
+Set-up instructions:
+1. Sign up for an account.
+2. Next is to sign up for a Marker Channel (ifttt.com/maker_webhooks), this allows for the creation of IFTTT recipes by sending and receiving HTTP requests.
+3. Followed by signing up for the SMS channel.
+4. After the above, click on the 'My Applets' within the homepage and create a new apple using 'New Applet'.
+
+
 
 
 ## Summary:
