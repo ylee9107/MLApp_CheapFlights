@@ -19,9 +19,17 @@ It all seemed to be a good deal and one might wonder if whether it is true or no
 ## Libraries:
 
 The following are the required libraries to run the code.
-1.
-2.
-3.
+1. Numpy
+2. BeautifulSoup
+3. Selenium
+4. Requests
+5. Scipy
+6. PyAstronomy
+7. Datetime
+8. Time
+9. Pandas
+10. Matplotlib
+11. Pickle
 
 ## Set up IFTTT service:
 
