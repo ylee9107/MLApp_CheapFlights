@@ -13,6 +13,15 @@ It all seemed to be a good deal and one might wonder if whether it is true or no
 ## Breakdown of this Notebook:
 
 
+## Summary:
+
+
+## Libraries:
+
+The following are the required libraries to run the code.
+1.
+2.
+3.
 
 ## Set up IFTTT service:
 
@@ -25,30 +34,30 @@ Set-up instructions:
 4. After the above, click on the 'My Applets' within the homepage and create a new apple using 'New Applet'.
 
 #### Step 1:
-![1_Create New Applet]()
+![1_Create New Applet](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/1_Create%20New%20Applet.png)
 
 #### Step 2:
-![2_Search for Webhooks]()
+![2_Search for Webhooks](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/2_Search%20for%20Webhooks.png)
 
 #### Step 3:
-![3_Input fields for Webhooks]()
+![3_Input fields for Webhooks](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/3_Input%20fields%20for%20Webhooks.png)
 
 #### Step 4:
-![4_Click on add Action]()
+![4_Click on add Action](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/4_Click%20on%20add%20Action.png)
 
 #### Step 5:
-![5_Select SMS service]()
+![5_Select SMS service](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/5_Select%20SMS%20service.png)
 
 #### Step 6:
-![6_Input fields for SMS]()
+![6_Input fields for SMS](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/6_Input%20fields%20for%20SMS.png)
 
 #### Step 7:
-![7_Fill in final details and click on Save]()
+![7_Fill in final details and click on Save](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/7_Fill%20in%20final%20details%20and%20click%20on%20Save.png)
 
 #### Step 8:
-![8_Turn on ]()
+![8_Turn on ](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/8_Turn%20on%20.png)
 
 #### Step 9:
-![9_Test it]()
+![9_Test it](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/9_Test%20it.png)
 
-## Summary:
+
