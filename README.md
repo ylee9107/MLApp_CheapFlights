@@ -34,30 +34,30 @@ Set-up instructions:
 4. After the above, click on the 'My Applets' within the homepage and create a new apple using 'New Applet'.
 
 #### Step 1:
-![1_Create New Applet](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/1_Create%20New%20Applet.png =250x250)
+![1_Create New Applet](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/1_Create%20New%20Applet.png width="250" height="250")
 
 #### Step 2:
-![2_Search for Webhooks](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/2_Search%20for%20Webhooks.png =250x250)
+![2_Search for Webhooks](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/2_Search%20for%20Webhooks.png width="250" height="250")
 
 #### Step 3:
-![3_Input fields for Webhooks](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/3_Input%20fields%20for%20Webhooks.png =250x250)
+![3_Input fields for Webhooks](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/3_Input%20fields%20for%20Webhooks.png width="250" height="250")
 
 #### Step 4:
-![4_Click on add Action](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/4_Click%20on%20add%20Action.png =250x250)
+![4_Click on add Action](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/4_Click%20on%20add%20Action.png width="250" height="250")
 
 #### Step 5:
-![5_Select SMS service](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/5_Select%20SMS%20service.png =250x250)
+![5_Select SMS service](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/5_Select%20SMS%20service.png width="250" height="250")
 
 #### Step 6:
-![6_Input fields for SMS](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/6_Input%20fields%20for%20SMS.png =250x250)
+![6_Input fields for SMS](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/6_Input%20fields%20for%20SMS.png width="250" height="250")
 
 #### Step 7:
-![7_Fill in final details and click on Save](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/7_Fill%20in%20final%20details%20and%20click%20on%20Save.png =250x250)
+![7_Fill in final details and click on Save](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/7_Fill%20in%20final%20details%20and%20click%20on%20Save.png width="250" height="250")
 
 #### Step 8:
-![8_Turn on ](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/8_Turn%20on%20.png =250x250)
+![8_Turn on ](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/8_Turn%20on%20.png width="250" height="250")
 
 #### Step 9:
-![9_Test it](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/9_Test%20it.png =250x250)
+![9_Test it](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/9_Test%20it.png width="250" height="250")
 
 
