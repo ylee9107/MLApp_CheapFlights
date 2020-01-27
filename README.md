@@ -23,7 +23,7 @@ The data was primarily obtained from scraping the HTML available from google fli
 From this project, I've learnt how to scrape the HTML for flight data by working with DOM to find elements to parse. Utilised the GESD as a technique to handle the univariate time-series data and identifying outliers (which are the airline's mistake pricing on certain tickets). Further, I have also learnt how how setup IFTTT to send text alerts with the code made using the web requests. 
 
 
-## Libraries:
+## Libraries and requirements:
 
 The following are the required libraries to run the code.
 1. Numpy
@@ -37,6 +37,13 @@ The following are the required libraries to run the code.
 9. Pandas
 10. Matplotlib
 11. Pickle
+
+These files will require an Secret Key or API Key from IFTTT to run. Please ensure that the KEY ('IFTTT API KEY') is saved in a folder called 'IFTTT API key', notice the capitalised letters between the key and the folder. The entire folder should be saved in the same directory as the files. 
+
+The API key can be found from IFTTT webpage by following the instructions in the notebook. It can be seen/found as the shown in the diagram below:
+
+![9_Test it](https://github.com/ylee9107/MLApp_CheapFlights/blob/master/IFTTT%20Screenshots/9_Test%20it.png)
+
 
 ## Set up IFTTT service:
 
