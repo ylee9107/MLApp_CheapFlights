@@ -9,11 +9,18 @@ It all seemed to be a good deal and one might wonder if whether it is true or no
 
 ## Dataset:
 
+The data was primarily obtained from scraping the HTML available from google flights. 
 
 ## Breakdown of this Notebook:
 
+- Sourcing the flight data
+- Inspecting and visualising the price and city data
+- Finding outliers in the data using the Generalised Extreme Studentised Deviate (GESD) method along with the Q-Q plot.
+- Set up IFTTT with SMS and Webhooks services to send alerts via text messages
 
 ## Summary:
+
+From this project, I've learnt how to scrape the HTML for flight data by working with DOM to find elements to parse. Utilised the GESD as a technique to handle the univariate time-series data and identifying outliers (which are the airline's mistake pricing on certain tickets). Further, I have also learnt how how setup IFTTT to send text alerts with the code made using the web requests. 
 
 
 ## Libraries:
