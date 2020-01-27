@@ -22,6 +22,9 @@ The data was primarily obtained from scraping the HTML available from google fli
 
 From this project, I've learnt how to scrape the HTML for flight data by working with DOM to find elements to parse. Utilised the GESD as a technique to handle the univariate time-series data and identifying outliers (which are the airline's mistake pricing on certain tickets). Further, I have also learnt how how setup IFTTT to send text alerts with the code made using the web requests. 
 
+## To run the 'cheapFlight_alerter.py' file:
+
+Open command line and navigate to the folder/directory. then type in "python cheapFlight_alerter.py 'Sydney' 'Europe' '2020-03-01' '2020-03-15' 'Edinburgh'" as an example.
 
 ## Libraries and requirements:
 
