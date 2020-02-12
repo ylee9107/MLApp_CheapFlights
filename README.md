@@ -41,7 +41,7 @@ The following are the required libraries to run the code.
 10. Matplotlib
 11. Pickle
 
-These files will require an Secret Key or API Key from IFTTT to run. Please ensure that the KEY ('IFTTT API KEY') is saved in a folder called 'IFTTT API key', notice the capitalised letters between the key and the folder. The entire folder should be saved in the same directory as the files. 
+These files will require a Secret Key or API Key from IFTTT to run. Please ensure that the KEY ('IFTTT API KEY') is saved in a folder called 'IFTTT API key', notice the capitalised letters between the key and the folder. The entire folder should be saved in the same directory as the files. 
 
 The API key can be found from IFTTT webpage by following the instructions in the notebook. It can be seen/found as the shown in the diagram below:
 
@@ -50,7 +50,7 @@ The API key can be found from IFTTT webpage by following the instructions in the
 
 ## Set up IFTTT service:
 
-IFTTT - If This THen That, is a free service that allows for connection with a huge number of services with a series of triggers and actions. Using this service requires signing up for an account at www.ifttt.com. 
+IFTTT - If This Then That, is a free service that allows for connection with a huge number of services with a series of triggers and actions. Using this service requires signing up for an account at www.ifttt.com. 
 
 Set-up instructions:
 1. Sign up for an account.
